@@ -1,0 +1,15 @@
+/home/iury/prog/senai/csharp/controle_clientes/bin/Debug/net6.0/controle_clientes
+/home/iury/prog/senai/csharp/controle_clientes/bin/Debug/net6.0/controle_clientes.deps.json
+/home/iury/prog/senai/csharp/controle_clientes/bin/Debug/net6.0/controle_clientes.runtimeconfig.json
+/home/iury/prog/senai/csharp/controle_clientes/bin/Debug/net6.0/controle_clientes.dll
+/home/iury/prog/senai/csharp/controle_clientes/bin/Debug/net6.0/controle_clientes.pdb
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.csproj.AssemblyReference.cache
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.GeneratedMSBuildEditorConfig.editorconfig
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.AssemblyInfoInputs.cache
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.AssemblyInfo.cs
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.csproj.CoreCompileInputs.cache
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.dll
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/refint/controle_clientes.dll
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.pdb
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/controle_clientes.genruntimeconfig.cache
+/home/iury/prog/senai/csharp/controle_clientes/obj/Debug/net6.0/ref/controle_clientes.dll

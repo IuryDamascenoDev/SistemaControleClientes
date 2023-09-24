@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "controle_clientes/1.0.0": {
+        "runtime": {
+          "controle_clientes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controle_clientes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
